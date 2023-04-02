@@ -2,7 +2,8 @@
 
 ## I'm a QA Engineer
 
-My CV
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1L23hMcBXT5U9HbHYogOXBhOOFKVoPpsF/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -15,7 +16,10 @@ My CV
 ![Header](https://img.shields.io/badge/-JMETER-090909?style=for-the-badge&logo=jmeter&logoColor=CB2027)
 
 
-Testing Documentation
+### Testing Documentation
+- [Checklists]()
+- [Test-Cases](https://docs.google.com/spreadsheets/d/12g8lQHFSqq7WT2IkXDhoWGDsyEwSkuPi/edit?usp=share_link&ouid=110984368611067326375&rtpof=true&sd=true)
+- [Bug-Reports](hhttps://docs.google.com/spreadsheets/d/12g8lQHFSqq7WT2IkXDhoWGDsyEwSkuPi/edit?usp=share_link&ouid=110984368611067326375&rtpof=true&sd=true)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/olga-pankina/)
