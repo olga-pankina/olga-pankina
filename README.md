@@ -17,4 +17,5 @@ My CV
 
 Testing Documentation
 
-Follow Me
+### Follow Me
+[![Header](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B7)](https://www.linkedin.com/in/olga-pankina/)
