@@ -17,7 +17,7 @@
 
 
 ### Testing Documentation
-
+- [Checklists](https://github.com/olga-pankina/Checklists)
 - [Test-Cases](https://github.com/olga-pankina/Test-cases)
 - [Bug-Reports](https://github.com/olga-pankina/Bug-Reports)
 
